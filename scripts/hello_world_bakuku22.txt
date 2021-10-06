@@ -1,0 +1,9 @@
+<! A hello world script by Bakuku>
+<html>
+<head>
+<title>  </title>
+</head>
+<body>
+Hello world!
+</body>
+</html>
